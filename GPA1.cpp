@@ -1,4 +1,5 @@
-void solutionRPM(long long int rpm, int &years, long long int &finalRPM) {
+void solutionRPM(long long int rpm, int &years, long long int &finalRPM)
+{
 
    
     
